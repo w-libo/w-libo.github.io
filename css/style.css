@@ -1,0 +1,117 @@
+.main{
+	max-width: 1000px;
+	background: #fff;
+	margin: 0 auto;
+}
+.title{
+	background: #f9fafe;
+	width: 100%;
+	display: inline-block;
+}
+.title-left{
+	float: left;
+    max-width: 50%;
+    padding-left: 10%;
+    padding-top: 10%;
+    text-align: left;
+}
+.title-left img{
+	width: 60%;
+	margin-left: -4px;
+}
+.title-left .user-zw{
+	font-size: 14px;
+	margin-top: 20px;
+	color: #666;
+}
+.title-left .user-zw b{
+	font-weight: bold;
+}
+.title-right{
+	float: right;
+    max-width: 40%;
+    text-align: right;
+}
+.title-right img{
+	width: 80%;
+    height: 100%;
+}
+.person-info{
+	margin-top: 80px;
+}
+.person-info p{
+	font-size: 14px;
+	color: #666;
+	margin-bottom: 18px;
+} 
+.person-info p .ico{
+	display: inline-block;
+	width: 18px; 
+	height: 18px;
+	
+	vertical-align: middle;
+	margin: -4px 6px 0 0;
+
+}
+.person-info p .ico-user{
+	background: url(../images/libo-5.png) no-repeat left center;
+	background-size: 100%;
+}
+.person-info p .ico-phone{
+	background: url(../images/libo-3.png) no-repeat left center;
+	background-size: 100%;
+}
+.person-info p .ico-yj{
+	background: url(../images/libo-4.png) no-repeat left center;
+	background-size: 100%;
+}
+.user-box{
+	margin-top: 30px;
+}
+
+.user-box-left{
+	width: 30%;
+	float: left;
+	padding:0 5%;
+}
+.user-box-left h1{
+	font-size: 24px;
+    color: #323232;
+}
+
+.user-box-left p{
+	color: #979797;
+    font-size: 14px;
+    margin-top: 4px;
+}
+
+.user-img{
+	width: 30%;
+	margin-top: 50px;
+}
+
+.user-box-left ul{
+	display: block;
+	margin-top: 24px;
+}
+.user-box-left ul li{
+	color: #666;
+	font-size: 14px;
+	line-height: 26px;
+}
+.user-box-left ul li b{
+	font-weight: bold;
+}
+.br-top{
+	margin-top: 24px;
+}
+.user-box-right{
+	width: 60%;
+	float: right;
+    background: #f6f6f6;
+}
+
+
+
+
+
