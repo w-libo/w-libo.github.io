@@ -66,17 +66,19 @@
 	background-size: 100%;
 }
 .user-box{
+	display: inline-block;
 	margin-top: 30px;
 }
 
 .user-box-left{
-	width: 30%;
+	width: 25%;
 	float: left;
 	padding:0 5%;
 }
 .user-box-left h1{
 	font-size: 24px;
     color: #323232;
+    margin-top: 46px;
 }
 
 .user-box-left p{
@@ -106,12 +108,58 @@
 	margin-top: 24px;
 }
 .user-box-right{
-	width: 60%;
+	width: 62%;
 	float: right;
     background: #f6f6f6;
+    padding-top: 46px;
+    padding-left: 3%;
+    padding-bottom: 50px;
+}
+.user-box-right .inf-title{
+	font-size: 24px;
+    color: #323232;
+}
+.user-box-right .inf-js{
+	color: #979797;
+    font-size: 14px;
+    margin-top: 4px;
 }
 
+.company-list-1{
+	margin-top: 64px;
+}
+.company-list-1 h3{
+	color: #2c2c2c;
+	margin-top: 34px;
+}
+.company-list-1 h3:nth-child(1){
+	margin-top: 0;
+}
+.company-list-1 h3 .company-time{
+	font-size: 14px;
+    display: inline-block;
+    width: 27%;
+}
+.company-list-1 h3 .company-name{
+	font-size: 16px;
+	margin-left: 5%;
+	font-weight: 600;
+}
+.company-list-1 h3 .company-post{
+	font-size: 16px;
+	font-weight: 600;
+	margin-left: 8%;
+}
 
-
-
+.company-list-1 ul{
+	display: block;
+	margin-top: 20px;
+	width: 67%;
+	padding-left: 33%;
+}
+.company-list-1 ul li{
+	line-height: 30px;
+	font-size: 14px;
+	color: #666;
+}
 
