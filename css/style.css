@@ -166,6 +166,7 @@
 	display: inline-block;
 	margin-top: 30px;
 	margin-bottom: 30px;
+	width: 100%;
 }
 .skillbox h1{
 	font-size: 24px;
@@ -210,6 +211,7 @@
 	font-size: 13px;
 	margin-top: 20px;
 	display: block;
+	font-weight: bold;
 }
 .skillbox span {
     padding: 8px 10px;
@@ -232,13 +234,40 @@
     border: 1px solid #faebcc;
     color: #8a6d3b;
 }
+.skillbox-l{
+	width: 50%;
+	float: left;
+}
 
-
-
-
-
-
-
+.projectbox {
+    line-height: 24px;
+    color: #666;
+    margin-top: 30px;
+    border-bottom: 1px dashed #ccc;
+    padding-bottom: 20px;
+}
+.projectbox .smalltitle {
+    font-size: 16px;
+    color: #ff6700;
+}
+.projectbox a {
+    text-decoration: none;
+    color: #ff6700;
+}
+.projectbox p {
+    margin-top: 10px;
+    font-size: 14px;
+}
+.projectbox .detail {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+.projectbox .detail {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
 
 
 
