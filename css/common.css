@@ -1,0 +1,14 @@
+
+@font-face{
+    font-family: 'PingFang-SC-Semibold';
+    src: url('../font/PingFang-SC-Semibold.otf');
+}
+body,html{
+    font-family: PingFang-SC-Semibold !important;
+}
+body{
+    font-family: PingFang-SC-Semibold !important;
+}
+
+
+
