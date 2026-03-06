@@ -1,0 +1,1 @@
+import{n as s}from"./index-CLz0rjt9.js";import{d as a,c as o,a as t,b as n,o as r,_ as c}from"./index-DbIhlk7l.js";const d={class:"Resume"},_=a({__name:"index",setup(p){return(i,e)=>(r(),o("div",d,[t(s),e[0]||(e[0]=n("div",{class:"content1"},null,-1))]))}}),f=c(_,[["__scopeId","data-v-92e6d2fe"]]);export{f as default};
